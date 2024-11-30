@@ -1,3 +1,3 @@
-# Hello, Git how are you! whatsup? buddy
-- I have done code changes after drinking coffee
+## Welcome to Git!
+- This is coming from dev-nags
 - Add feature branch to Github
